@@ -1,2 +1,26 @@
-# zyron.github.io
-Lars Føleide
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Lars Føleide — Home</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <!-- GA4 -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-LE3EMX7RDC"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments)}
+    gtag('js', new Date());
+    gtag('config', 'G-LE3EMX7RDC');
+  </script>
+  <style>body{font:16px system-ui,-apple-system,Segoe UI,Roboto,sans-serif;max-width:720px;margin:40px auto;padding:0 16px;line-height:1.6}</style>
+</head>
+<body>
+  <h1>Lars Føleide</h1>
+  <p>Welcome. My CV lives at <a href="/CV/">/CV/</a>.</p>
+  <ul>
+    <li><a href="https://github.com/zyron">GitHub</a></li>
+    <li><a href="mailto:lars.foleide@gmail.com">Email</a></li>
+    <li><a href="/CV/cv.pdf">Download CV (PDF)</a></li>
+  </ul>
+</body>
+</html>
